@@ -7,7 +7,7 @@ import ListAltIcon from '@mui/icons-material/ListAlt';
 import GruopIcon from '@mui/icons-material/Group';
 import VerifiedIcon from '@mui/icons-material/Verified';
 import { AccountCircle } from '@mui/icons-material';
-// import { Pending } from '@mui/icons-material';
+import { Pending } from '@mui/icons-material';
 
 export const navigationMenu=[
     {
@@ -54,6 +54,11 @@ export const navigationMenu=[
         title: "Profile",
         icon:<AccountCircle/>,
         path: "/profile"
+    },
+    {
+        title: "More",
+        icon:<Pending/>,
+        path: "/more"
     },
 
 ]

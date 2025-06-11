@@ -48,7 +48,7 @@ const Navigation = () => {
                 <div className='flex items-center space-x-3'>
                     <Avatar
                         alt="username"
-                        src='https://pbs.twimg.com/profile_images/1476982902701244417/GiwXfZy5_400x400.jpg' />
+                        src='https://avatars.githubusercontent.com/u/108705663?v=4' />
 
                     <div className="flex flex-col leading-tight">
                         <span>Prateek Yadav</span>
